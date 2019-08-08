@@ -3,7 +3,7 @@
         {
             "/**/ ": "mjpeg",
             "name": "streamer",
-            "script": ".mjpg_streamer",
+            "script": "mjpg_streamer",
             "exec_mode": "fork_mode",
             "args": [
                 "-i",
